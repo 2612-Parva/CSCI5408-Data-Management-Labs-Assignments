@@ -1,0 +1,5 @@
+{"employees (employee_id INT, name VARCHAR(100), salary INT);":[],"users (id INT, name VARCHAR(255))":[],"users;":[],
+  "students":[{"name":"Parva Patel","age":"22","id":"1"}],"employees":
+[{"name":"'Parva Patel'","salary":"4000000;","employee_id":"101"}],"users":
+[{"name":"'Parva'","id":"1"},{"name":"'Alice'","age":"25;","id":"1"},
+  {"name":"'Bob'","age":"30;","id":"2"},{"name":"'Charlie'","age":"40;","id":"3"}]}
